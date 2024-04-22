@@ -1,6 +1,7 @@
 # fastapi-jwt-authentication
 
 This includes pyhton code for authenticating users on a login page using the ```JWT``` token using FastAPI framework along with hashed password protection using ```bcrypt```.
+
 Setup a virtual environment 
 > cd "your-project-folder-path"
 
