@@ -4,9 +4,8 @@ This includes pyhton code for authenticating users on a login page using the ```
 
 Go to your projects folder and setup a virtual environment
 ```
-cd "your-project-folder-path"
-
-python3 -m venv venv
+cd <your-project-folder-path>
+python3 -m venv <name-of-virtual-environment>
 source venv/bin/activate
 ```
 
