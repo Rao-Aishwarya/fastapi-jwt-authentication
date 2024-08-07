@@ -25,4 +25,4 @@ Run the code
 uvicorn main:app --reload
 ```
 
-The APIs can be tested in ```localhost:3000/docs```
+The APIs can be tested on ```localhost:3000/docs```
